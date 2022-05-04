@@ -87,6 +87,28 @@ body{
     letter-spacing: .4px;
 }
 
+.title-acteurs{
+    text-align: center;
+}
+
+.acteurs{
+    text-align: center;
+    list-style: none;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.acteur{
+    background-color: #eee;
+    color: #d10000;
+    text-transform: uppercase;
+    font-size: .8em;
+    margin: 6px;
+    padding: 6px;
+    border-radius: 16px;
+}
+
+
 .footer{
     background-color: #eee;
     text-align: center;
