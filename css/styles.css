@@ -1,0 +1,100 @@
+body{
+    background-color: #d3d3d3;
+    font-family: sans-serif;
+}
+
+.container{
+    max-width: 60rem;
+    border: 1px solid #000;
+    background-color: #fff;
+    margin: auto;
+}
+
+.big-logo{
+    display: block;
+    margin: 16px auto;
+}
+
+.banner{
+    display: block;
+    text-align: center;
+    border-top: 2px solid #8b0000;
+    border-bottom: 2px solid #8b0000;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.title, .badge{
+    display: inline-block;
+}
+
+.title{
+    font-size: 3rem;
+    margin-right: 16px;
+}
+
+.badge{
+    background-color: #000;
+    font-weight: bolder;
+    color: #fff;
+    padding: 6px 12px;
+}
+
+.abstract{
+    background-color: #eee;
+    display: block;
+    padding: 1rem;
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.title-presentation{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    margin: 32px;
+    
+}
+
+.small-logo{
+    margin: 0 auto 2rem;
+    display: block;
+    width: 6rem;
+}
+
+.intro{
+    line-height: 1.4em;
+    letter-spacing: .4px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 1rem;
+}
+
+.meta{
+    font-size: .8em;
+    letter-spacing: .1px;
+    line-height: 1.3em;
+    text-align: center;
+}
+
+.synopsis{
+    text-align: center;
+    color: #8b0000;
+    font-size: 1.4em;
+}
+
+.story{
+    line-height: 1.3em;
+    letter-spacing: .4px;
+}
+
+.footer{
+    background-color: #eee;
+    text-align: center;
+    margin: 1rem;
+}
+
+#copyright{
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    display: inline-block;
+}
